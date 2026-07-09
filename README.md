@@ -14,6 +14,7 @@ repo tracked here as a git submodule.
 | `MannyAI/` | `nbarker2021/MannyAI` | The MannyAI form: agents, CEM, corpus, MCP, plugins, benchmarks. Active dev. |
 | `PaperEcology/` | `nbarker2021/Paper-Ecology` | The 240-paper LCR system + C1–C8, W1–W8, appendix, plus the DerivationLedger proof pipeline. Active dev. |
 | `CMPLX-Standards/` | `nbarker2021/CMPLX-Standards` | The CMPLX-Standards grading/taxonomy system (C2 taxonomy, claim grader). Active dev. |
+| `forge-base/` | `nbarker2021/forge-base` | The canonical **Lattice/Forge/Reforge spine** (`FORGE_BASE`): `lattice_forge` living kernel (100+ modules), ~40 `*Forge` engines, and the `reforge_*` suite. MannyAI discovers all forges from here via `forge_registry`. |
 
 ## Claim-derivation status (PaperEcology)
 

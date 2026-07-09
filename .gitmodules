@@ -10,3 +10,6 @@
 [submodule "CMPLX-Standards"]
 	path = CMPLX-Standards
 	url = https://github.com/nbarker2021/CMPLX-Standards.git
+[submodule "forge-base"]
+	path = forge-base
+	url = https://github.com/nbarker2021/forge-base.git
