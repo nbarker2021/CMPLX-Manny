@@ -13,6 +13,7 @@ repo tracked here as a git submodule.
 | `cqekernel/` | `nbarker2021/cqekernel` | Stdlib-only CQE/CMPLX kernel (lattice / forge / reforge systems). Ships precached `cqekernel.db`. Installable: `pip install cqe-kernel`. This is the default kernel package — when NOT inside MannyAI dev, install it as a Python lib. |
 | `MannyAI/` | `nbarker2021/MannyAI` | The MannyAI form: agents, CEM, corpus, MCP, plugins, benchmarks. Active dev. |
 | `PaperEcology/` | `nbarker2021/Paper-Ecology` | The 240-paper LCR system + C1–C8, W1–W8, appendix, plus the DerivationLedger proof pipeline. Active dev. |
+| `CMPLX-Standards/` | `nbarker2021/CMPLX-Standards` | The CMPLX-Standards grading/taxonomy system (C2 taxonomy, claim grader). Active dev. |
 
 ## Claim-derivation status (PaperEcology)
 

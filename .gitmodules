@@ -7,3 +7,6 @@
 [submodule "PaperEcology"]
 	path = PaperEcology
 	url = https://github.com/nbarker2021/Paper-Ecology.git
+[submodule "CMPLX-Standards"]
+	path = CMPLX-Standards
+	url = https://github.com/nbarker2021/CMPLX-Standards.git
