@@ -1,0 +1,9 @@
+[submodule "cqekernel"]
+	path = cqekernel
+	url = https://github.com/nbarker2021/cqekernel.git
+[submodule "MannyAI"]
+	path = MannyAI
+	url = https://github.com/nbarker2021/MannyAI.git
+[submodule "PaperEcology"]
+	path = PaperEcology
+	url = https://github.com/nbarker2021/Paper-Ecology.git

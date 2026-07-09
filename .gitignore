@@ -1,0 +1,18 @@
+# CMPLX-Manny — root hosting .gitignore
+# This repo is a submodule umbrella. The 3 submodules carry their own .gitignore.
+# Here we only exclude umbrella-level transient artifacts.
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.cursor/
+
+# Python caches (if any root-level scripts)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local demotion / staging (never hosted)
+_LOCAL_DEMOTED/
+*.log
